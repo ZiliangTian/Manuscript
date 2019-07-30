@@ -15,9 +15,9 @@ fghjk
 we are editting the same line
 
 # Authors
-Ziliang Tan (1,2), Tom Remenyi (1,3), Peter Love (1,3), Stuart Corney (1), Rebecca Harris (3)
+Ziliang Tian (1,2), Tom Remenyi (1,3), Peter Love (1,3), Stuart Corney (1), Rebecca Harris (3)
 
- 1 Intitute for Marine and Antarctic Studies, University of Tasmania, Castray Esplanade, Hobart, Tasmania 7000, Australia
+ 1 Institute for Marine and Antarctic Studies, University of Tasmania, Castray Esplanade, Hobart, Tasmania 7000, Australia
 2 College of Oceanic and Atmospheric Science, Ocean University of China, 238 Songling Rd, Qingdao, Shangdong, China
 3 Spatial Science, University of Tasmania
 
